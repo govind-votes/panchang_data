@@ -12,68 +12,72 @@
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/3.png"
     },
     {
-        "tittle":"Mrigashira",
+        "tittle":"Rohini",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/4.png"
     },
     {
-        "tittle":"Ardra",
+        "tittle":"Mrigashira",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/5.png"
     },
     {
-        "tittle":"Punarvasu",
+        "tittle":"Ardra",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/6.png"
     },
     {
-        "tittle":"Pushya",
+        "tittle":"Punarvasu",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/7.png"
     },
     {
-        "tittle":"Ashlesha",
+        "tittle":"Pushya",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/8.png"
     },
     {
-        "tittle":"Magha",
+        "tittle":"Ashlesha",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/9.png"
     },
     {
-        "tittle":"Purva Phalguni",
+        "tittle":"Magha",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/10.png"
     },
     {
-        "tittle":"Uttara Phalguni",
+        "tittle":"Purva Phalguni",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/11.png"
     },
     {
-        "tittle":"Hasta",
+        "tittle":"Uttara Phalguni",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/12.png"
     },
     {
-        "tittle":"Chitra",
+        "tittle":"Hasta",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/13.png"
     },
     {
-        "tittle":"Swati",
+        "tittle":"Chitra",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/14.png"
     },
     {
-        "tittle":"Vishakha",
+        "tittle":"Swati",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/15.png"
     },
     {
-        "tittle":"Anuradha",
+        "tittle":"Vishakha",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/16.png"
     },
     {
-        "tittle":"Jyeshtha",
+        "tittle":"Anuradha",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/17.png"
     },
     {
-        "tittle":"Mula",
+        "tittle":"Jyeshtha",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/18.png"
     },
     {
-        "tittle":"Purva Ashadha",
+        "tittle":"Mula",
         "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/19.png"
+    },
+    {
+        "tittle":"Purva Ashadha",
+        "image":"https://raw.githubusercontent.com/govind-votes/panchang_data/refs/heads/main/image/20.png"
     },
     {
         "tittle":"Uttara Ashadha",
